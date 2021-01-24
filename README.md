@@ -1,0 +1,1 @@
+This is the first Odin Project. Yep that's it
