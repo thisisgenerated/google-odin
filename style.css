@@ -38,3 +38,15 @@
     float: right;
     margin-right: 20px;
 }
+
+#googlesuche {
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+
+#glück {
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
