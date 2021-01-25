@@ -19,3 +19,22 @@
     padding: 0;
 }
 
+#übergoogle {
+    float: left;
+    display: block;
+}
+
+#store {
+    float: left;
+    margin-left: 20px;
+}
+
+#bilder {
+    float: right; 
+    margin-right: 20px;
+}
+
+#gmail {
+    float: right;
+    margin-right: 20px;
+}
